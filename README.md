@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaduScrobota&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="RaduScrobota" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukuzhanay&" alt="RaduScrobota" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaduScrobota&" alt="RaduScrobota" /></p>
 
